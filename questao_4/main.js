@@ -1,4 +1,4 @@
-const XPTO = (valor, lista) => {
+export const XPTO = (valor, lista) => {
   let left = 0;
   let right = lista.length - 1;
   let posicao = -1;
