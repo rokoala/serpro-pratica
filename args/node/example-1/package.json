@@ -1,0 +1,6 @@
+{
+  "name": "args",
+  "description": "args test",
+  "main": "main.js",
+  "type": "module"
+}
